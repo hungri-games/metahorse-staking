@@ -1,0 +1,59 @@
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 2, reused 2, downloaded 0, added 0
+Progress: resolved 3, reused 2, downloaded 0, added 0
+Progress: resolved 5, reused 4, downloaded 0, added 0
+Progress: resolved 15, reused 9, downloaded 0, added 0
+Progress: resolved 16, reused 9, downloaded 1, added 0
+Progress: resolved 16, reused 9, downloaded 5, added 0
+Progress: resolved 16, reused 9, downloaded 6, added 0
+Progress: resolved 17, reused 9, downloaded 6, added 0
+Progress: resolved 279, reused 272, downloaded 6, added 0
+Progress: resolved 280, reused 272, downloaded 6, added 0
+Progress: resolved 283, reused 276, downloaded 6, added 0
+Progress: resolved 289, reused 282, downloaded 6, added 0
+Progress: resolved 294, reused 287, downloaded 6, added 0
+Progress: resolved 309, reused 302, downloaded 7, added 0
+Progress: resolved 367, reused 345, downloaded 8, added 0
+Progress: resolved 368, reused 345, downloaded 11, added 0
+Progress: resolved 376, reused 352, downloaded 11, added 0
+Progress: resolved 384, reused 357, downloaded 13, added 0
+Progress: resolved 387, reused 359, downloaded 14, added 0
+Progress: resolved 388, reused 361, downloaded 15, added 0
+Progress: resolved 396, reused 369, downloaded 16, added 0
+Progress: resolved 402, reused 375, downloaded 16, added 0
+Progress: resolved 408, reused 381, downloaded 16, added 0
+Progress: resolved 416, reused 389, downloaded 16, added 0
+Progress: resolved 426, reused 397, downloaded 16, added 0
+Progress: resolved 428, reused 398, downloaded 18, added 0
+Progress: resolved 443, reused 410, downloaded 22, added 0
+Progress: resolved 446, reused 413, downloaded 22, added 0
+Progress: resolved 465, reused 432, downloaded 23, added 0
+Progress: resolved 489, reused 454, downloaded 25, added 0
+Progress: resolved 518, reused 477, downloaded 31, added 0
+Progress: resolved 519, reused 477, downloaded 33, added 0
+Progress: resolved 527, reused 485, downloaded 33, added 0
+Packages: +236 -1
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++-
+Progress: resolved 540, reused 498, downloaded 33, added 168
+Progress: resolved 540, reused 498, downloaded 33, added 236, done
+
+devDependencies:
++ @nomicfoundation/hardhat-chai-matchers 2.0.3
++ @nomicfoundation/hardhat-ethers 3.0.5
++ @nomicfoundation/hardhat-network-helpers 1.0.10
++ @nomicfoundation/hardhat-toolbox 4.0.0
++ @nomicfoundation/hardhat-verify 2.0.3
++ @typechain/ethers-v6 0.5.1
++ @typechain/hardhat 9.1.0
++ @types/chai 4.3.11
++ @types/mocha 10.0.6
++ @types/node 20.10.7
++ chai 4.4.0 (5.0.0 is available)
++ ethers 6.9.2
++ hardhat-gas-reporter 1.0.9
++ solidity-coverage 0.8.5
++ ts-node 10.9.2
++ typechain 8.3.2
++ typescript 5.3.3
+
+Done in 39.8s
